@@ -50,12 +50,12 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 
 7. List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
+8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
+
+
 ## Results
 
 ### Data Modeling
 ![SQL_Data modeling](https://github.com/MaddyGutieruiz/SQL-challenge/blob/main/SQL_Data_Modeling.png)
 
 Figure 1 is the sketch of the Entity Relationship Diagram of the tables using QuickDBD.
-
-
-8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).

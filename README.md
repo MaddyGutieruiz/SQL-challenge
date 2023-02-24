@@ -59,3 +59,9 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 ![SQL_Data modeling](https://github.com/MaddyGutieruiz/SQL-challenge/blob/main/SQL_Data%20modeling.png)
 
 Figure 1 is the sketch of the Entity Relationship Diagram of the tables using QuickDBD.
+
+### Data Engineering 
+
+### Data Analysis
+
+

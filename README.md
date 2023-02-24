@@ -24,10 +24,6 @@ This Challenge is divided into three parts: data modeling, data engineering, and
 ## Data Modeling
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBDLinks to an external site..
 
-![SQL_Data modeling](https://github.com/MaddyGutieruiz/SQL-challenge/blob/main/SQL_Data_Modeling.png)
-
-Figure 1 is the sketch of the Entity Relationship Diagram of the tables using QuickDBD.
-
 ## Data Engineering
 1. Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
 
@@ -53,5 +49,13 @@ Figure 1 is the sketch of the Entity Relationship Diagram of the tables using Qu
 6. List each employee in the Sales department, including their employee number, last name, and first name.
 
 7. List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
+
+## Results
+
+### Data Modeling
+![SQL_Data modeling](https://github.com/MaddyGutieruiz/SQL-challenge/blob/main/SQL_Data_Modeling.png)
+
+Figure 1 is the sketch of the Entity Relationship Diagram of the tables using QuickDBD.
+
 
 8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).

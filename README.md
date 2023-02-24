@@ -60,7 +60,11 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 
 Figure 1 is the sketch of the Entity Relationship Diagram of the tables using QuickDBD.
 
-### Data Engineering 
+### Data Engineering
+
+See SQL_Data_Engineering.sql file for answer.
+
+https://github.com/MaddyGutieruiz/SQL-challenge/blob/main/SQL_Data_Engineering.sql
 
 ### Data Analysis
 

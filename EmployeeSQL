@@ -1,1 +1,12 @@
 
+#Creating tables for each file
+#Adding CSV data to each table
+
+CREATE TABLE "departments" (
+    "dept_no" VARCHAR   NOT NULL,
+    "dept_name" VARCHAR   NOT NULL,
+    CONSTRAINT "pk_departments" PRIMARY KEY (
+        "dept_no"
+     )
+);
+

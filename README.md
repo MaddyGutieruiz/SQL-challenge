@@ -68,29 +68,38 @@ https://github.com/MaddyGutieruiz/SQL-challenge/blob/main/SQL_Data_Engineering.s
 
 ### Data Analysis
 
-#### SQL code for the Data Analysis questions can he found here: 
+SQL code for the Data Analysis questions can he found here: https://github.com/MaddyGutieruiz/SQL-challenge/blob/main/SQL_Data_Analysis_Code.sql
 
 1. List the employee number, last name, first name, sex, and salary of each employee.
 
 
-    Answers to data analysis question one can be found here: https://github.com/MaddyGutieruiz/SQL-challenge/blob/main/SQL_Data_Analysis_Q1.csv
+        Answers to data analysis question one can be found here: https://github.com/MaddyGutieruiz/SQL-challenge/blob/main/SQL_Data_Analysis_Q1.csv
 
 2. List the first name, last name, and hire date for the employees who were hired in 1986.
 
-    Answers to data analysis question two can be found here:
+        Answers to data analysis question two can be found here:
 
 3. List the manager of each department along with their department number, department name, employee number, last name, and first name.
 
-    Answers to data analysis question three can be found here:
+        Answers to data analysis question three can be found here:
     
 4. List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
     
-    Answers to data analysis question Four can be found here:
+        Answers to data analysis question Four can be found here:
 
 5. List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
 
+        Answers to data analysis question Five can be found here:
+
 6. List each employee in the Sales department, including their employee number, last name, and first name.
+
+        Answers to data analysis question Six can be found here:
 
 7. List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
+        Answers to data analysis question Seven can be found here:
+
 8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
+
+        Answers to data analysis question Eight can be found here:
+        

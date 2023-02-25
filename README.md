@@ -64,11 +64,11 @@ Figure 1 is the sketch of the Entity Relationship Diagram of the tables using Qu
 
 See SQL_Data_Engineering.sql file for answer.
 
-https://github.com/MaddyGutieruiz/SQL-challenge/blob/main/SQL_Data_Engineering.sql
+https://github.com/MaddyGutieruiz/SQL-challenge/blob/main/SQL_Data_Engineering_table_schemata.sql
 
 ### Data Analysis
 
-SQL code for the Data Analysis questions can he found here: https://github.com/MaddyGutieruiz/SQL-challenge/blob/main/SQL_Data_Analysis_Code.sql
+SQL code for the Data Analysis questions can he found here: https://github.com/MaddyGutieruiz/SQL-challenge/blob/main/SQL_Data_Analysis_Queries.sql
 
 1. List the employee number, last name, first name, sex, and salary of each employee.
 
